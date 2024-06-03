@@ -15,3 +15,4 @@ if __name__ == '__main__':
     insert_world_cup_stats(input_players_stats_with_error_domain_file_path)
 
     print("Data was inserted correctly to BigQuery")
+https://github.com/polinachow/memecreator.git
